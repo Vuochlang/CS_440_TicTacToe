@@ -1,4 +1,6 @@
-# CS_440_TicTacToe
+# CS 440 - Artificial Intelligence
+
+# Assignment 1: TicTacToe
 
 01/28/2021
 
